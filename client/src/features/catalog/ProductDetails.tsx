@@ -58,7 +58,6 @@ export default function ProductDetails(){
                     </Table>
                 </TableContainer>
             </Grid>
-
         </Grid>
     )
 }
